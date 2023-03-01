@@ -1,4 +1,4 @@
-#Pathrise Data Science Project
+# Pathrise Data Science Project
 
 Overview:
 This project is a data challenge assignment for Pathrise, an online program that provides mentorship, training, and advice to help job seekers get the best possible jobs in tech. The goal of this analysis is to derive insights around whether a fellow will ultimately be placed at a company and how long until a placement can be expected.
