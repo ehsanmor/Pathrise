@@ -25,4 +25,4 @@ Recommendations
 The analysis will provide insights into the factors that are most important in determining a fellow's success in the Pathrise program. Recommendations will be made based on the findings, including potential changes to the program to increase the success rate of fellows.
 
 Conclusion
-Overall, this project will provide valuable insights into the Pathrise program and the factors that contribute to a fellow's success. The findings will help inform decisions on how to improve the program and better support fellows in achieving their career goals
+Overall, this project will provide valuable insights into the Pathrise program and the factors that contribute to a fellow's success. The findings will help inform decisions on how to improve the program and better support fellows in achieving their career goals in tech
